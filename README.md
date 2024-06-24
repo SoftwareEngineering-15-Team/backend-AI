@@ -4,7 +4,7 @@
 -https://www.kaggle.com/code/docxian/stroke-prediction/input 접속 후 데이터 다운로드
 
 ## 2. 전처리
-- sklearn 모듈이용해 범주형 변수 처리 및 NULL값 제거
+- sklearn 모듈이용해 범주형 변수 및 결측값 처리
 
 ## 3. 모델학습
 - RandomForestClassifier를 사용하여 뇌졸중 발생 여부를 예측하는 모델 학습
