@@ -1,7 +1,7 @@
 # stroke prediction
 
 ## 1. 데이터 다운로드
--https://www.kaggle.com/code/docxian/stroke-prediction/input링크 접속 후 데이터 다운로드
+-https://www.kaggle.com/code/docxian/stroke-prediction/input 접속 후 데이터 다운로드
 
 ## 2. 전처리
 - sklearn 모듈이용해 범주형 변수 처리 및 NULL값 제거
