@@ -1,5 +1,6 @@
 # backend-AI
-뇌졸중 발병확률을 예측할 AI 모델입니다.
+#뇌졸중 발병확률을 예측할 AI 모델입니다.
+
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
